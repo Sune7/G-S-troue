@@ -157,7 +157,7 @@ footer {
 /* Background images: */
 body.home::before {
     content: "";
-    background-image: url(fotos/Gerrit&Sune_-166.jpg);
+    background-image: url(fotos-git/Gerrit&Sune_-166.jpg);
     background-attachment: fixed;
 	background-size: cover;
 	opacity: 0.75; 
@@ -172,7 +172,7 @@ body.home::before {
 
 body.detail-page::before {
     content: ""; 
-    background-image: url(fotos/Gerrit&Sune_-16.jpg); 
+    background-image: url(fotos-git/Gerrit&Sune_-16.jpg); 
     background-attachment: fixed;
     background-size: cover;
     opacity: 0.75;
@@ -187,7 +187,7 @@ body.detail-page::before {
 
 body.team-page::before {
     content: ""; 
-    background-image: url(fotos/Gerrit&Sune_-160.jpg); 
+    background-image: url(fotos-git/Gerrit&Sune_-160.jpg); 
     background-attachment: fixed;
     background-size: cover;
     opacity: 0.75;
@@ -202,7 +202,7 @@ body.team-page::before {
 
 body.venue-page::before {
     content: ""; 
-    background-image: url(fotos/Gerrit&Sune_-148.jpg); 
+    background-image: url(fotos-git/Gerrit&Sune_-148.jpg); 
     background-attachment: fixed;
     background-size: cover;
     opacity: 0.75;
@@ -217,7 +217,7 @@ body.venue-page::before {
 
 body.vrae-page::before {
     content: ""; 
-    background-image: url(fotos/Gerrit&Sune_-151.jpg); 
+    background-image: url(fotos-git/Gerrit&Sune_-151.jpg); 
     background-attachment: fixed;
     background-size: cover;
     opacity: 0.75;
@@ -232,7 +232,7 @@ body.vrae-page::before {
 
 body.rsvp-page::before {
     content: ""; 
-    background-image: url(fotos/Gerrit&Sune_-33.jpg); 
+    background-image: url(fotos-git/Gerrit&Sune_-33.jpg); 
     background-attachment: fixed;
     background-size: cover;
     opacity: 0.75;
