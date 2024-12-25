@@ -157,7 +157,7 @@ footer {
 /* Background images: */
 body.home::before {
     content: "";
-    background-image: url(./fotos-git/Gerrit&Sune_-166.jpg);
+    background-image: url(/fotos-git/Gerrit&Sune_-166.jpg);
     background-attachment: fixed;
 	background-size: cover;
 	opacity: 0.75; 
