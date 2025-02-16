@@ -27,6 +27,10 @@ body, h1, p, h2 {
 	opacity: 1;
 } */
 
+.announcements {
+	font-size: 30px;
+}
+
 p {
     font-size: 20px;
     font-weight: 500;
