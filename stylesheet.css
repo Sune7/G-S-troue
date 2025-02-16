@@ -27,8 +27,12 @@ body, h1, p, h2 {
 	opacity: 1;
 } */
 
+.announcements h1 {
+	font-size: 35px;
+}
+
 .announcements p {
-	font-size: 30px;
+	font-size: 25px;
 }
 
 p {
