@@ -1,6 +1,6 @@
 // script.js
 // Set the date of the wedding
-const weddingDate = new Date("2025-03-01T16:00:00").getTime(); // Adjust to your wedding date and time
+const weddingDate = new Date("2025-03-01T15:30:00").getTime(); // Adjust to your wedding date and time
 
 function updateCountdown() {
   const now = new Date().getTime();
